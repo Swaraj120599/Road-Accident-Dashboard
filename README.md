@@ -9,17 +9,17 @@ This dashboard analyzes road accident data to understand patterns, causes, and s
 ## 📊 Key Performance Indicators (KPIs):
 These are the core metrics highlighted in the dashboard:
 
-- Total Number of Accidents
+- **Total Number of Accidents**
 
-- Accidents by Severity (e.g., Fatal, Serious, Slight)
+- **Accidents by Severity (e.g., Fatal, Serious, Slight)**
 
-- Accidents by Region or State
+- **Accidents by Region or State**
 
-- Accidents by Time Period (monthly/yearly trend)
+- **Accidents by Time Period (monthly/yearly trend)**
 
-- Weather or Road Condition Contribution
+- **Weather or Road Condition Contribution**
 
-- Casualties (Injured and Deceased)
+- **Casualties (Injured and Deceased)**
 
 ## 💡 Key Insights:
 **1.Accident Trends Over Time:**
